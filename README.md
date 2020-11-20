@@ -14,7 +14,7 @@ figure-code.scm
   In this project we were given the code to create a figure of characters out of asterics and dash characters with a method called make figure and a few other 
   methods to manipulate and access the figure.  Our task was to implement methods that would add new rows and columns in various ways, the methods we implemented 
   were, repeat-cols, repeat-rows, append-cols, append-rows, flip-cols, flip-rows methods.  Examples of how to call methods and what they should represent are 
-  given in the code.
+  given in the code along with full set of instructions and code explanation.  
 
 OwnGrandpa.pl
   
