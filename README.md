@@ -1,6 +1,6 @@
 # Principles-of-Programming-Languages-314
 
-Example.pl 
+Example.py 
   -Reads through any text files in a directory and will create a graph which lists all of the words in the graph and their occurences.  
   The goal of the project was to create a program who would take a directory with 3 directories inside of it, one for latin texts by Julius Cesear, 
   one for latin texts by Eutropius and one for latin texts by Cicero.  Inside of these directories we could have any number of text files of classical 
