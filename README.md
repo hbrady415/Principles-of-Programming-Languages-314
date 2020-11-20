@@ -1,6 +1,6 @@
 # Principles-of-Programming-Languages-314
 
-Example.py 
+Examine.py 
   -Reads through any text files in a directory and will create a graph which lists all of the words in the graph and their occurences.  
   The goal of the project was to create a program who would take a directory with 3 directories inside of it, one for latin texts by Julius Cesear, 
   one for latin texts by Eutropius and one for latin texts by Cicero.  Inside of these directories we could have any number of text files of classical 
@@ -8,7 +8,11 @@ Example.py
   So the program would result in 3 graphs, 1 for Cicero, 1 for Cesear, and one for Eutropius.  This program can be scaled up to work with any number of 
   text files without issue but the Y axis of the graph (words used) will be unreadable if text is too large.  
 
-
+figure-code.scm
+  In this project we were given the code to create a figure of characters out of asterics and dash characters with a method called make figure and a few other 
+  methods to manipulate and access the figure.  Our task was to implement methods that would add new rows and columns in various ways, the methods we implemented 
+  were, repeat-cols, repeat-rows, append-cols, append-rows, flip-cols, flip-rows methods.  Examples of how to call methods and what they should represent are 
+  given in the code.
 
 OwnGrandpa.pl
   Project based on the song "I'm My Own Grandpa" by Ray Stevens.  The song talks about a serious of marriages where the main character proves to 
